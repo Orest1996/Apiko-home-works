@@ -1,0 +1,19 @@
+.PostList {
+  display: flex;
+  flex-direction: column;
+}
+.PostList label {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+}
+.PostList ul {
+  padding: 0;
+  width: 80%;
+  margin: 0 auto;
+}
+.PostList ul li {
+  list-style: none;
+}
+
+/*# sourceMappingURL=main.css.map */
