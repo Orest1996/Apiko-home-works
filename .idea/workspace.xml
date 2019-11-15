@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6af222d2-076a-4bdc-a977-3b2e164037f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/styles/index.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Categories.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CategoryDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/TodoItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hoc/TodoItemHoc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/GroupStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stores/RootStore.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/GroupStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/GroupStore.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stores/TodoStore.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/stores/TodoStore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -114,7 +87,9 @@
       <workItem from="1573382465520" duration="11980000" />
       <workItem from="1573472623549" duration="18920000" />
       <workItem from="1573549099324" duration="10901000" />
-      <workItem from="1573642491270" duration="6591000" />
+      <workItem from="1573642491270" duration="8027000" />
+      <workItem from="1573730643136" duration="685000" />
+      <workItem from="1573806257430" duration="1636000" />
     </task>
     <servers />
   </component>

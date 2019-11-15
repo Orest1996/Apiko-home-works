@@ -1,6 +1,7 @@
 import { types as t } from "mobx-state-tree";
 import { TodoModel } from "./TodoStore";
 import uuid from "uuid";
+import {rootStore} from "./RootStore";
 
 export const GroupModel = t
     .model('GroupModel', {
@@ -19,6 +20,7 @@ export const GroupModel = t
     }))
     .views((store) => ({
         getUncompleted() {
+            if(store.title === "Favorites") {return rootStore.todos.list.filter(item => (!item.isCompleted && item.isFavorite)).length}
             return store.todos.filter(item => !item.isCompleted).length
         }
     }));

@@ -11,6 +11,7 @@ export const TodoModel = t
     .actions((store) => ({
         toggleFavorite() {
             store.isFavorite = !store.isFavorite;
+
         },
 
         toggleCompleted() {
